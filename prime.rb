@@ -4,6 +4,6 @@ def prime?(number)
   if number <= 1
     return false
   else do |remainder|
-    number % 
-    
+    number % remainder != 0
+  end
 end
