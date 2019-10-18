@@ -3,6 +3,7 @@
 def prime?(number)
   if number <= 1
     return false
-  else 
+  else do |remainder|
+    number
     
 end
